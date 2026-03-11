@@ -42,15 +42,15 @@ https://www.figma.com/design/kSKrrdnha3gYU5hMTm9ac7/EHEALTH?node-id=143-183
 
 ### Home Page (Before Login)
 
-![Home Page (Before Login)](HomePage before login - FR.png)
+![Home Page (Before Login)](HomePage-before-login-FR.png)
 
 ### Home Page (After Login)
 
-![Home Page (After Login)](HomePage after login - FR.png)
+![Home Page (After Login)](HomePage-after-login-FR.png)
 
 ### Chatbot Feature
 
-![Chatbot Feature](Chatbot - FR.png)
+![Chatbot Feature](Chatbot-FR.png)
 
 ### ADL Feature (Activities of Daily Living)
 
