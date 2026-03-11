@@ -66,7 +66,7 @@ https://www.figma.com/design/kSKrrdnha3gYU5hMTm9ac7/EHEALTH?node-id=143-183
 
 ### Kebersihan Pribadi
 
-![Kebersihan Pribadi](Kebersihan-Pribadi-Langkah 1.png)
+![Kebersihan Pribadi](Kebersihan-Pribadi-Langkah-1-Handuk.png)
 
 ---
 
