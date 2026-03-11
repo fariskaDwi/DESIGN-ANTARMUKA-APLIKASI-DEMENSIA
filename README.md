@@ -42,15 +42,15 @@ https://www.figma.com/design/kSKrrdnha3gYU5hMTm9ac7/EHEALTH?node-id=143-183
 
 ### Home Page (Before Login)
 
-![Home Before Login](HomePage before login - FR.png)
+![Home Page (Before Login)](HomePage before login - FR.png)
 
 ### Home Page (After Login)
 
-![Home After Login](HomePage after login - FR.png)
+![Home Page (After Login)](HomePage after login - FR.png)
 
 ### Chatbot Feature
 
-![Chatbot](Chatbot - FR.png)
+![Chatbot Feature](Chatbot - FR.png)
 
 ### ADL Feature (Activities of Daily Living)
 
@@ -62,11 +62,11 @@ https://www.figma.com/design/kSKrrdnha3gYU5hMTm9ac7/EHEALTH?node-id=143-183
 
 ### Identitas Gambar
 
-![Identitas](Identitas Gambar - FR.png)
+![Identitas Gambar](Identitas Gambar - FR.png)
 
 ### Kebersihan Pribadi
 
-![Kebersihan](Kebersihan Pribadi - Langkah 1.png)
+![Kebersihan Pribadi](Kebersihan Pribadi - Langkah 1.png)
 
 ---
 
